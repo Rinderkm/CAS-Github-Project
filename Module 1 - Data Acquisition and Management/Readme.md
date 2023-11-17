@@ -4,5 +4,5 @@
 ### CAS Applied Data Science Repository by Rinderkm 
 
 
-This foler contains the course material of Module 1.
+This folder contains the course material of Module 1.
 Some of the material contains personal notes.
