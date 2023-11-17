@@ -1,4 +1,4 @@
-## CAS ADS, University of Bern\
+## CAS ADS, University of Bern \
 #CAS Applied Data Science Repository by Rinderkm \
 \
 \
