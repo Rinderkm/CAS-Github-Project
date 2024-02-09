@@ -1,4 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2709
+{\rtf1\ansi\ansicpg1252\cocoartf2759
 \cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
@@ -7,9 +7,9 @@
 \pard\pardeftab720\partightenfactor0
 
 \f0\fs26 \cf0 \expnd0\expndtw0\kerning0
-###Final Project\
+# Final Project\
 \
-##CAS ADS, University of Bern\
-#CAS Applied Data Science Repository by Rinderkm \
+## CAS ADS, University of Bern\
+### CAS Applied Data Science Repository by Rinderkm \
 \
 Material of the final project will be added when they become available}
